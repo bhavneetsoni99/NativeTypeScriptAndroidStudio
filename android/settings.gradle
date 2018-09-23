@@ -1,0 +1,3 @@
+rootProject.name = 'RoadTripPlannerReactNativeWithTypeScript'
+
+include ':app'
